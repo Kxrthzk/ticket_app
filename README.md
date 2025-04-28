@@ -24,5 +24,7 @@ For full documentation, tutorials, and API references, visit:
 1. Make sure you have [Flutter installed](https://docs.flutter.dev/get-started/install).
 2. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Kxrthzk/ticket_app.git
    cd ticket_app
+
+
